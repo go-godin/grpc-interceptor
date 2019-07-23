@@ -1,4 +1,4 @@
-module gitub.com/go-godin/grpc-interceptor
+module gihtub.com/go-godin/grpc-interceptor
 
 go 1.12
 
