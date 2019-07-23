@@ -1,4 +1,4 @@
-module gihtub.com/go-godin/grpc-interceptor
+module github.com/go-godin/grpc-interceptor
 
 go 1.12
 
